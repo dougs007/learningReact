@@ -7,5 +7,5 @@
 * Api em NodeJS, consumida na aplicação (https://rocketseat-node.herokuapp.com/api)
 
 # Dúvidas
-  Fique a vontade para abrir uma issue (aqui)[https://github.com/dougs007/learningReact/issues/new]
+  Fique a vontade para abrir uma issue [aqui](https://github.com/dougs007/learningReact/issues/new)
 
